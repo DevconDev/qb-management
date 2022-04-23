@@ -8,7 +8,8 @@ Config.BossMenus = {
         vector3(461.45, -986.2, 30.73),
     },
     ['ambulance'] = {
-        vector3(335.46, -594.52, 43.28),
+        vector3(335.66, -570.4, 43.32),
+        vector3(-508.61, -300.65, 69.52),
     },
     ['realestate'] = {
         vector3(-716.11, 261.21, 84.14),
@@ -22,6 +23,9 @@ Config.BossMenus = {
     ['mechanic'] = {
         vector3(-339.53, -156.44, 44.59),
     },
+    ['burgershot'] = {
+        vector3(-1201.72, -893.6, 14.0),
+    },
 }
 
 Config.BossMenuZones = {
@@ -29,7 +33,8 @@ Config.BossMenuZones = {
         { coords = vector3(461.45, -986.2, 30.73), length = 0.35, width = 0.45, heading = 351.0, minZ = 30.58, maxZ = 30.68 } ,
     },
     ['ambulance'] = {
-        { coords = vector3(335.46, -594.52, 43.28), length = 1.2, width = 0.6, heading = 341.0, minZ = 43.13, maxZ = 43.73 },
+        { coords = vector3(335.66, -570.4, 43.32), length = 2.0, width = 0.2, heading = 70.0, minZ = 40.92, maxZ = 44.92 },
+        { coords = vector3(-508.61, -300.65, 69.52), length = 0.5, width = 0.1, heading = 30.00, minZ = 65.92, maxZ = 69.92 },
     },
     ['realestate'] = {
         { coords = vector3(-716.11, 261.21, 84.14), length = 0.6, width = 1.0, heading = 25.0, minZ = 83.943, maxZ = 84.74 },
@@ -42,6 +47,9 @@ Config.BossMenuZones = {
     },
     ['mechanic'] = {
         { coords = vector3(-339.53, -156.44, 44.59), length = 1.15, width = 2.6, heading = 353.0, minZ = 43.59, maxZ = 44.99 },
+    },
+    ['burgershot'] = {
+        { coords = vector3(-1191.65, -897.19, 14.0), length = 0.5, width = 0.5, heading = 310.0, minZ = 10.20, maxZ = 14.20 },
     },
 }
 
