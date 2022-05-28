@@ -26,6 +26,9 @@ Config.BossMenus = {
     ['burgershot'] = {
         vector3(-1201.72, -893.6, 14.0),
     },
+    ['trucker'] = {
+        vector3(-59.59, -2517.33, 7.4),
+    },
 }
 
 Config.BossMenuZones = {
@@ -50,6 +53,9 @@ Config.BossMenuZones = {
     },
     ['burgershot'] = {
         { coords = vector3(-1191.65, -897.19, 14.0), length = 0.5, width = 0.5, heading = 310.0, minZ = 10.20, maxZ = 14.20 },
+    },
+    ['trucker'] = {
+        { coords = vector3(-59.59, -2517.33, 7.4), length = 1.0, width = 2.0, heading = 325.0, minZ = 3.0, maxZ = 7.0 },
     },
 }
 
