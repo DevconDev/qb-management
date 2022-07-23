@@ -29,6 +29,9 @@ Config.BossMenus = {
     ['trucker'] = {
         vector3(-59.59, -2517.33, 7.4),
     },
+    ['happyshark'] = {
+        vector3(375.09, -979.16, 29.44),
+    },
 }
 
 Config.BossMenuZones = {
@@ -56,6 +59,9 @@ Config.BossMenuZones = {
     },
     ['trucker'] = {
         { coords = vector3(-59.59, -2517.33, 7.4), length = 1.0, width = 2.0, heading = 325.0, minZ = 3.0, maxZ = 7.0 },
+    },
+    ['happyshark'] = {
+        { coords = vector3(375.09, -979.16, 29.44), length = 0.1, width = 0.5, heading = 260.0, minZ = 26.04, maxZ = 30.04 },
     },
 }
 
